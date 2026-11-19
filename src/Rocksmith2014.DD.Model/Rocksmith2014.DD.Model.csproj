@@ -21,8 +21,7 @@
 
   <ItemGroup>
     <None Update="MLModel.zip">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>    </None>
   </ItemGroup>
 
   <ItemGroup>

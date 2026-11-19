@@ -1,4 +1,5 @@
 [<RequireQualifiedAccess>]
+[<CompilationRepresentation(CompilationRepresentationFlags.ModuleSuffix)>]
 module Array
 
 open System

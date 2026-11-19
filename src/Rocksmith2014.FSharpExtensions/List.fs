@@ -1,4 +1,5 @@
 [<RequireQualifiedAccess>]
+[<CompilationRepresentation(CompilationRepresentationFlags.ModuleSuffix)>]
 module List
 
 /// Removes the item from the list.

@@ -1,4 +1,5 @@
 [<RequireQualifiedAccess>]
+[<CompilationRepresentation(CompilationRepresentationFlags.ModuleSuffix)>]
 module ResizeArray
 
 open System
